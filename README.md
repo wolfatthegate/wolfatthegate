@@ -3,7 +3,7 @@
 - 👀 I’m interested in anything that are not on daily news.
 - 🌱 I’m currently learning how to survive. 
 - 📫 How to reach me => Fork my repositories. 
-- 🐈‍⬛ I hired an illuminated cat because I cannot afford to subscribe github services.  
+- 🐈‍⬛ I hired an illuminated cat to keep tracks of my changes because I cannot afford to subscribe github services.  
 
 <!---
 wolfatthegate/wolfatthegate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
