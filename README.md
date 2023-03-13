@@ -2,7 +2,7 @@
 - 🐺 I'm a wolf in a human form. 
 - 👀 I’m interested in anything that are not on daily news.
 - 🌱 I’m currently learning how to survive. 
-- 📫 How to reach me => Fork my repositories. 
+- 📫 How to reach me. 
 - 🐈 I hired an illuminated black cat to keep tracks of my changes because I cannot afford to subscribe github services.  
 
 <!---
