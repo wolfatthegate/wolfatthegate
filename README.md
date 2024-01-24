@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @wolfatthegate. 
-- 🐺 I'm a wolf in a human form. 
 - 👀 I’m interested in anything that are not on daily news.
 - 🌱 I’m currently learning how to survive. 
 - 📫 How to reach me. 
