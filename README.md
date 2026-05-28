@@ -11,7 +11,7 @@
 - Repository for ICPP2025 Paper - https://zenodo.org/records/15897774
 
 - SC2025 SFWM Workshop Paper - https://github.com/wolfatthegate/allmylinks/blob/main/SC2025_SFWM.pdf
-- Repository for SC2025 SFWM Workshop Paper - [https://github.com/QuantumCloudSimulation/HybridCloudSim](https://github.com/wolfatthegate/HybridCloudSim-SC2025.git)
+- Repository for SC2025 SFWM Workshop Paper - [Repository](https://github.com/wolfatthegate/HybridCloudSim-SC2025.git)
 
 <!---
 wolfatthegate/wolfatthegate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
