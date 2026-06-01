@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wolfatthegate. 
+👋 Hi, I’m @wolfatthegate. 
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/waylon-luo-4065605b/) profile.
 
